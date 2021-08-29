@@ -5,7 +5,7 @@
 <img align="center" width=46% height=46% src="https://github-readme-stats.vercel.app/api?username=YJPark0421&theme=outrun&show_icons=true" alt="Yunjeong Park's GitHub stats" />
 <!--![Yunjeong Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJPark0421&theme=outrun&show_icons=true)-->
 
-<br>
+
 <!-- <a href="https://github.com/YJPark0421/github-readme-stats">
   <img align="center" width=50% height=30% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YJPark0421&layout=compact&theme=material-palenight" />
 </a> -->
