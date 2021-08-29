@@ -10,4 +10,4 @@
   <img align="center" width=50% height=30% src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YJPark0421&layout=compact&theme=material-palenight" />
 </a> -->
 
-　　　　　　　　　　　　　　　　　　　　　[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23F019F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23F019F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
