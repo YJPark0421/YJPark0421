@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="center" width=45.5% height=45.5% src="https://github-readme-stats.vercel.app/api?username=YJPark0421&theme=outrun&show_icons=true" alt="Yunjeong Park's GitHub stats" />
+<img align="center" width=46% height=46% src="https://github-readme-stats.vercel.app/api?username=YJPark0421&theme=outrun&show_icons=true" alt="Yunjeong Park's GitHub stats" />
 <!--![Yunjeong Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJPark0421&theme=outrun&show_icons=true)-->
 
 <br>
