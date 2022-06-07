@@ -1,8 +1,8 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=1&text=YJPark's%20GitHub&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=1&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
 
 <!-- https://github.com/YJPark0421/Readme-Capsule-render/edit/main/README.md -->
 
-<h1 align='Center'> Hi 👋, I'm YJPark 💎 </h1>
+<h1 align='Center'> Hi 👋, I'm YJPark. </h1>
 
 <br>
 
@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23ff94a2&title_bg=%234f4f4f&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
 
 <h2> </h2>
