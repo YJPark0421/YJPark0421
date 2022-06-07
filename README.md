@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=ffd9ec&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=c0dfff&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
 
 <!-- https://github.com/YJPark0421/Readme-Capsule-render/edit/main/README.md -->
 
