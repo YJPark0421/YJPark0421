@@ -1,8 +1,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=b7d2e0&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
 
-<!-- https://github.com/YJPark0421/Readme-Capsule-render/edit/main/README.md -->
 
-<h1 align='Center'> Hi 👋, I'm YJPark. </h1>
+<h1 align='Center'> Hi 👋, I'm YJ Park. </h1>
 
 <br>
 
@@ -13,8 +12,6 @@
   <img src="https://img.shields.io/badge/-Pyspark-FFF?&logo=Spark&logoColor=navy" />
   <img src="https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=navy" />  
   <img src="https://img.shields.io/badge/-MLflow-FFF?&logo=MLflow" />
-<!--   <img src="https://img.shields.io/badge/-PyTorch-FFF?&logo=PyTorch" /> -->
-<!--   <img src="https://img.shields.io/badge/-Keras-FFF?&logo=Keras&logoColor=darkred" /> -->
   <img src="https://img.shields.io/badge/-scikit--learn-FFF?&logo=scikit-learn" />
 <br> 
   <img src="https://img.shields.io/badge/-TensorFlow-FFF?&logo=TensorFlow" />  
