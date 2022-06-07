@@ -1,6 +1,8 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=YJPark&fontAlign=80&fontAlignY=40&color=gradient)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=1&text=YJPark's%20GitHub&fontSize=40&animation=twinkling)
 
-<h1 align='Center'> Hello World 👋, I'm Yunjeong Park 💎 </h1>
+<!-- https://github.com/YJPark0421/Readme-Capsule-render/edit/main/README.md -->
+
+<h1 align='Center'> Hi 👋, I'm YJPark 💎 </h1>
 
 <br>
 
