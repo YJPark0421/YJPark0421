@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=b7d2e0&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=c1c1c1&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
 
 
 <h1 align='Center'> Hi 👋, I'm YJ Park. </h1>
