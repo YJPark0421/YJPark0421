@@ -9,14 +9,14 @@
 
 <p align="Center">
   <img src="https://img.shields.io/badge/-Python-4f4f4f?&logo=Python" />
-  <img src="https://img.shields.io/badge/-Pyspark-4f4f4f?&logo=Spark&logoColor=navy" />
-  <img src="https://img.shields.io/badge/-SQL-4f4f4f?&logo=MySQL&logoColor=navy" />  
+  <img src="https://img.shields.io/badge/-Pyspark-4f4f4f?&logo=Spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4f4f4f?&logo=MySQL&logoColor=white" />  
   <img src="https://img.shields.io/badge/-MLflow-4f4f4f?&logo=MLflow" />
   <img src="https://img.shields.io/badge/-scikit--learn-4f4f4f?&logo=scikit-learn" />
 <br> 
   <img src="https://img.shields.io/badge/-TensorFlow-4f4f4f?&logo=TensorFlow" />  
   <img src="https://img.shields.io/badge/-Spark-4f4f4f?&logo=Spark" />
-  <img src="https://img.shields.io/badge/-MySQL-4f4f4f?&logo=MySQL&logoColor=navy" />
+  <img src="https://img.shields.io/badge/-MySQL-4f4f4f?&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-4f4f4f?&logo=VSCode" />
   <img src="https://img.shields.io/badge/-Jupyter-4f4f4f?&logo=Jupyter" />
 </p>
