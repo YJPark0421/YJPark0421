@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=c1c1c1&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=eae7e7&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
 
 
 <h1 align='Center'> Hi 👋, I'm YJ Park. </h1>
@@ -8,17 +8,17 @@
 <h3 align="Center"> Tech Stack </h3>
 
 <p align="Center">
-  <img src="https://img.shields.io/badge/-Python-FFF?&logo=Python" />
-  <img src="https://img.shields.io/badge/-Pyspark-FFF?&logo=Spark&logoColor=navy" />
-  <img src="https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=navy" />  
-  <img src="https://img.shields.io/badge/-MLflow-FFF?&logo=MLflow" />
-  <img src="https://img.shields.io/badge/-scikit--learn-FFF?&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-Python-4f4f4f?&logo=Python" />
+  <img src="https://img.shields.io/badge/-Pyspark-4f4f4f?&logo=Spark&logoColor=navy" />
+  <img src="https://img.shields.io/badge/-SQL-4f4f4f?&logo=MySQL&logoColor=navy" />  
+  <img src="https://img.shields.io/badge/-MLflow-4f4f4f?&logo=MLflow" />
+  <img src="https://img.shields.io/badge/-scikit--learn-4f4f4f?&logo=scikit-learn" />
 <br> 
-  <img src="https://img.shields.io/badge/-TensorFlow-FFF?&logo=TensorFlow" />  
-  <img src="https://img.shields.io/badge/-Spark-FFF?&logo=Spark" />
-  <img src="https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL&logoColor=navy" />
-  <img src="https://img.shields.io/badge/-VS%20Code-FFF?&logo=VSCode" />
-  <img src="https://img.shields.io/badge/-Jupyter-FFF?&logo=Jupyter" />
+  <img src="https://img.shields.io/badge/-TensorFlow-4f4f4f?&logo=TensorFlow" />  
+  <img src="https://img.shields.io/badge/-Spark-4f4f4f?&logo=Spark" />
+  <img src="https://img.shields.io/badge/-MySQL-4f4f4f?&logo=MySQL&logoColor=navy" />
+  <img src="https://img.shields.io/badge/-VS%20Code-4f4f4f?&logo=VSCode" />
+  <img src="https://img.shields.io/badge/-Jupyter-4f4f4f?&logo=Jupyter" />
 </p>
 
 <br>
