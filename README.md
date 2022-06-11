@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23ffd9ec&title_bg=%234f4f4f&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23b4b4b4&title_bg=%234f4f4f&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p> 
 <!-- 5793FF -->
 <!-- ff85c2 -->
