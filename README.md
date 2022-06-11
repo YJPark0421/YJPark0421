@@ -1,11 +1,10 @@
-![soft](https://capsule-render.vercel.app/api?type=soft&color=eae7e7&text=DATA%20HAS%20A%20BETTER%20IDEA&fontSize=40&animation=twinkling)
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=40&fontAlign=50&fontAlignY=35&text=DATA%20HAS%20A%20BETTER%20IDEA&color=gradient&customColorList=1)
 
 <h1 align='Center'> Hi 👋, I'm YJ Park. </h1>
 
 <br>
 
-<h3 align="Center"> Tech Stack </h3>
+<h3 align="Center"> 🛠 Tech Stack 🛠 </h3>
 
 <p align="Center">
   <img src="https://img.shields.io/badge/-Python-4f4f4f?&logo=Python" />
@@ -25,9 +24,11 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23ff85c2&title_bg=%234f4f4f&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-</p>
-
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYJPark0421&count_bg=%23ffd9ec&title_bg=%234f4f4f&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</p> 
+<!-- 5793FF -->
+<!-- ff85c2 -->
+<!-- ffd9ec -->
 <h2> </h2>
 <p align='Right'>
   <i>Copyright 2022 © YJPark. All Rights Reserved.</i>
